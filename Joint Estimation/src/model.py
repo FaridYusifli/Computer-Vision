@@ -172,9 +172,3 @@ def hg_train(njoints):
     model = Model(inputs=input_, outputs=out[-1])
 
     return model
-
-
-
-
-
-
