@@ -5,7 +5,7 @@ Here we train and test our model in 2 dataset : MPII and Unite the People datase
 Here dataset is not uploaded, since it was more the 80+ GB total.
 
 
-# Neural Network: Hourglass model
+### Neural Network: Hourglass model
 # Two different datasets: MPII and Unite the People
 # Comparison of model performance on the two datasets
 # GPU: GTX 1080 8GB
