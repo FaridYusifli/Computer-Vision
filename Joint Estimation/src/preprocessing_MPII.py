@@ -169,8 +169,3 @@ def split_train_test(data):
         else:
             img,coordinates,center=preprocess(data,dict_pic,name)
             name=augmented_img(img,np.array(coordinates)[:,0:2],center, dict_pic,name)
-
-
-
-
-
