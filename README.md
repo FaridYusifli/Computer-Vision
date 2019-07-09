@@ -6,12 +6,12 @@
 
 
 
-### Neural Network: Hourglass model
-### Two different datasets: MPII and Unite the People
-### Comparison of model performance on the two datasets
-### GPU: GTX 1080 8GB
-### Training time: 30 hours per Dataset
-### Keras + Tensorflow backend
+#### Neural Network: Hourglass model
+#### Two different datasets: MPII and Unite the People
+#### Comparison of model performance on the two datasets
+#### GPU: GTX 1080 8GB
+#### Training time: 30 hours per Dataset
+#### Keras + Tensorflow backend
 
 
 More about project and the result can be found in pdf file.
